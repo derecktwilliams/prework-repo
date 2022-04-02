@@ -41,6 +41,14 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 https://hackmd.io/@derecktwilliams/rJQSMHH75
 
+![](https://i.imgur.com/ypz4CtN.gif)
+
+![](https://i.imgur.com/DaYmoIv.gif)
+
+![](https://i.imgur.com/Fq2vJD0.gif)
+
+![](https://i.imgur.com/Zguw7mY.gif)
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 https://www.w3schools.com/js/js_if_else.asp
